@@ -1,0 +1,17 @@
+
+/* kommentarerna skriver du som i C */
+/* inte som i html <!-- --> */
+
+body {
+  background: lightgreen;
+}
+
+p {
+  color: black;
+}
+
+p:hover {   color: white; }
+
+h1 {
+  color: darkblue;
+}
